@@ -1,5 +1,8 @@
 # xenv
 
+## Download
+DMG file can be downloaded [here](https://github.com/bdemirpolat/xenv/raw/main/xenv-Installer.dmg)
+
 ## How it works?
 
 This app creates a new profile on current user's your home directory. All variables created from this app located in
