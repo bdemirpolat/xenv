@@ -1,5 +1,6 @@
 # xenv
-
+Environment variables manager for macOS.
+![](https://github.com/bdemirpolat/xenv/blob/main/app_screenshot.png?raw=true)
 ## Download
 DMG file can be downloaded [here](https://github.com/bdemirpolat/xenv/raw/main/xenv-Installer.dmg)
 
